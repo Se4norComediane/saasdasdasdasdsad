@@ -21,3 +21,16 @@
 [19:04:14] [Server thread/INFO]: Verastenma joined the game
 [19:04:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
 [19:05:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2492ms or 49 ticks behind
+[19:18:34] [Server thread/INFO]: Stopping the server
+[19:18:34] [Server thread/INFO]: Stopping server
+[19:18:34] [Server thread/INFO]: Saving players
+[19:18:34] [Server thread/INFO]: Verastenma lost connection: Server closed
+[19:18:34] [Server thread/INFO]: Verastenma left the game
+[19:18:34] [Server thread/INFO]: Saving worlds
+[19:18:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:18:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:18:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:18:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:18:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:18:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:18:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
